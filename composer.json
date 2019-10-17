@@ -4,5 +4,7 @@
     "require": {
         "php": "^7.2",
         "another-vendor/package": "1.*"
-    }
+    },
+    "minumim-stability" = "dev",
+    "prefer-stable" = true
 }
